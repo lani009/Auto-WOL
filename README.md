@@ -1,0 +1,2 @@
+# Auto-WOL
+automate wol
